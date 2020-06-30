@@ -1,0 +1,3 @@
+{    "mongoURI": "mongodb://localhost:27017/Tauma",
+    "jwtSecret":"ANU-IT-2018-F-0008"
+}
